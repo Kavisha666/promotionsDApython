@@ -7,6 +7,9 @@
 
 Throughout the project, I meticulously collected, cleaned, and analyzed sales data to identify trends, top promo types, top-selling products, and revenue metrics critical for business decision-making.
 
+![image](https://github.com/Kavisha666/promotionsDApython/assets/158316623/31857a05-46af-4916-9377-ac25c8568bbf)
+
+
 🔑**KPI Indicators:**🔑
 
 - IR: Incremental Revenue
